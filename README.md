@@ -1,5 +1,7 @@
 # Tweet Sentiment Classification
 
+![mv](tc.webp) 
+
 This project aims to classify tweets into sentiment categories using machine learning models. It leverages the Sentiment140 dataset to train models that can automatically detect sentiment from text data, providing valuable insights for social media analytics.
 
 ## Overview
